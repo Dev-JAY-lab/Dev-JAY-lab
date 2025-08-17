@@ -1,4 +1,16 @@
+🔭 I’m currently working on:
+More advanced concepts of Animations .
 
+👯 I’m looking to collaborate on:
+Frontend projects.
+
+🌱 I’m currently learning:
+Advanced JavaScript and React.js.
+
+💬 Ask me about:
+JavaScript, C, Gsap, Python, Java, and any general Web development questions.
+
+⚡ Fun fact:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameisjay._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitupassi437@gmail.com) 
 
