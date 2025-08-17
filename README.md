@@ -8,7 +8,7 @@ Frontend projects.
 Advanced JavaScript and React.js.
 
 💬 Ask me about:
-JavaScript, C, Gsap, Python, Java, and any general Web development questions.
+ Html, CSS, Gsap, JavaScript, C, Python, Java, and any general Web development questions.
 
 ⚡ Fun fact:
 ## 🌐 Socials:
