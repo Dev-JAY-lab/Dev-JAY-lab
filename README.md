@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Music Production Company.
+- 🌱 I’m currently learning JavaScript Advanced.
+- 💬 Ask me about Animations and Backend concepts.
+- ⚡ Fun fact: I love coding.
+-->
+---
 
 **Dev-JAY-lab/Dev-JAY-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🌐 Socials:
